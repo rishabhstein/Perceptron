@@ -16,4 +16,5 @@ make
 ## Executable
 Executable takes 3 arguments first number of training points, second is iteration over training and third argument is no. of testing points.
 To run it type this:
+
 ./run 10 1 200
