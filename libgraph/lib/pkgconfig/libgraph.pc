@@ -1,0 +1,12 @@
+prefix=/home/rishabhstein/Shared_Lib/libgraph
+exec_prefix=/home/rishabhstein/Shared_Lib/libgraph
+libdir=/home/rishabhstein/Shared_Lib/libgraph/lib
+bindir=/home/rishabhstein/Shared_Lib/libgraph/bin
+includedir=/home/rishabhstein/Shared_Lib/libgraph/include
+
+Name: libgraph
+Description: TC graphics API on GNU/Linux
+Version: 1.0.2
+Requires: 
+Libs: -L/home/rishabhstein/Shared_Lib/libgraph/lib -lgraph
+Cflags: -I/home/rishabhstein/Shared_Lib/libgraph/include
