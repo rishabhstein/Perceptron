@@ -1,5 +1,9 @@
 # Perceptron
 
+## Update
+I am trying to use this simple Perceptron to train the Flappy-Bird game which is still in process. I will update it here soon.
+
+
 ## Requirement- Graphics.h
 
 Precompiled lib for debian architecture are with the code.
